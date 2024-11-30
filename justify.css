@@ -1,0 +1,88 @@
+.justify-container1{
+   display: flex; 
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   background-color: darkseagreen;
+
+}
+
+.justify-container1 div{
+    background-color: aliceblue;
+    width: 150px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.justify-container2{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .justify-container2 div{
+     background-color: aliceblue;
+     width: 150px;
+     padding: 2px;
+     margin: 5px;
+ }
+
+ .justify-container3{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .justify-container3 div{
+     background-color: aliceblue;
+     width: 150px;
+     padding: 2px;
+     margin: 5px;
+ }
+
+ .justify-container4{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .justify-container4 div{
+     background-color: aliceblue;
+     width: 150px;
+     padding: 2px;
+     margin: 5px;
+ }
+
+ .justify-container5{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content:space-around;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .justify-container5 div{
+     background-color: aliceblue;
+     width: 150px;
+     padding: 2px;
+     margin: 5px;
+ }
+ .justify-container6{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color: darkseagreen;
+ 
+ }
+ 
+ .justify-container6 div{
+     background-color: aliceblue;
+     width: 150px;
+     padding: 2px;
+     margin: 5px;
+ }
